@@ -1,3 +1,4 @@
-# convonnect
+# Convonnect
 
-Deploying a messaging app using Firebase and npm CLI
+> Concept
+Elixir, Phoenix, Typescript, React, PostgreSQL, Fly.io/AWS 
